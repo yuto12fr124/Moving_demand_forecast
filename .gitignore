@@ -1,0 +1,3 @@
+data/optuna_log/lightgbm_study.db
+data/optuna_log/lightgbm_study_v2.db
+data/optuna_log/lightgbm_study_v3.db
